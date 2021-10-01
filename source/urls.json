@@ -3,5 +3,20 @@
     "name": "小众软件",
     "url": "https://www.appinn.com/",
     "mark": ["app", "appinn"]
+  },
+  {
+    "name": "小众软件 - 论坛",
+    "url": "https://meta.appinn.net/",
+    "mark": ["meta"]
+  },
+  {
+    "name": "Github",
+    "url": "https://github.com/",
+    "mark": ["gh","github"]
+  },
+  {
+    "name": "Github",
+    "url": "https://gist.github.com/",
+    "mark": ["gist"]
   }
 ]
