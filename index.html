@@ -21,44 +21,26 @@
   <div id="notice"></div>
   <!-- Default Statcounter code for https://r.ixyz.zyx/ -->
   <script type="text/javascript">
-  if(window.location.search){
     var sc_project=12639313;
     var sc_invisible=1;
     var sc_security="57c1605a";
-  }
   </script>
   <script type="text/javascript"
   src="https://www.statcounter.com/counter/counter.js"
   async></script>
   <!-- End of Statcounter Code -->
   <script id="redirect">
-    (function(){
-      const urls = {"app":"https://www.appinn.com/","appinn":"https://www.appinn.com/","meta":"https://meta.appinn.net/","gh":"https://github.com/","github":"https://github.com/","gist":"https://gist.github.com/"}
-      if(window.location.search){
-        const queryGET = (the_name)=>{
-          let regexp = new RegExp('^\\?(?:.+&)*?(?:'+the_name+'=([^&]+))?(?:.*)$');
-          return window.location.search.replace(regexp,'$1');
-        }
-        window.addEventListener('load', ()=>{
-          const mark = queryGET('m')
-          const targetLink = urls[mark]
-          if(targetLink){
-            window.location.href = targetLink
-            return
-          }
-          document.querySelector('#notice').innerText = '404 not found.'
-          document.body.removeChild(document.querySelector('#redirect'))
-        })
-        return
-      }
+    const urls = {"app":"https://www.appinn.com/","appinn":"https://www.appinn.com/","meta":"https://meta.appinn.net/","gh":"https://github.com/","github":"https://github.com/","gist":"https://gist.github.com/"}
+    window.addEventListener('load', ()=>{
       const mark = window.location.hash.replace(/#/,'')
-      if(urls[mark]){
-        window.location.href = '/?m='+ mark
+      const targetLink = urls[mark]
+      if(targetLink){
+        window.location.href = targetLink
         return
       }
       document.querySelector('#notice').innerText = '404 not found.'
       document.body.removeChild(document.querySelector('#redirect'))
-      })()
+    })
   </script>
 </body>
 </html>
