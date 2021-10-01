@@ -1,0 +1,10 @@
+{
+  "name": "shortLink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dmscode <i@zji.me>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node ./source/build.js"
+  }
+}
