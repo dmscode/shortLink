@@ -32,7 +32,7 @@
   <script id="redirect">
     const urls = ```urls```
     window.addEventListener('load', ()=>{
-      const mark = window.location.hash.replace(/#/,'')
+      const mark = window.location.hash.replace(/^#/,'')
       const targetLink = urls[mark]
       if(targetLink){
         window.location.href = targetLink

@@ -18,5 +18,15 @@
     "name": "Github",
     "url": "https://gist.github.com/",
     "mark": ["gist"]
+  },
+  {
+    "name": "稻米鼠的小脚本们",
+    "url": "https://script.izyx.xyz/",
+    "mark": ["script"]
+  },
+  {
+    "name": "笔记，卡片，小书签",
+    "url": "https://meta.appinn.net/t/26446",
+    "mark": ["note"]
   }
 ]
