@@ -30,17 +30,21 @@
   async></script>
   <!-- End of Statcounter Code -->
   <script id="redirect">
-    const urls = {"app":"https://www.appinn.com/","appinn":"https://www.appinn.com/","meta":"https://meta.appinn.net/","gh":"https://github.com/","github":"https://github.com/","gist":"https://gist.github.com/","script":"https://script.izyx.xyz/","note":"https://meta.appinn.net/t/26446"}
-    window.addEventListener('load', ()=>{
+    'use strict';
+    (()=>{
+      const urls = {"app":"https://www.appinn.com/","appinn":"https://www.appinn.com/","meta":"https://meta.appinn.net/","gh":"https://github.com/","github":"https://github.com/","gist":"https://gist.github.com/","script":"https://script.izyx.xyz/","note":"https://meta.appinn.net/t/26446"}
       const mark = window.location.hash.replace(/^#/,'')
       const targetLink = urls[mark]
-      if(targetLink){
-        window.location.href = targetLink
+      if(!targetLink){
+        document.title = '404 not found.'
+        document.querySelector('#notice').innerText = '404 not found.'
+        document.body.removeChild(document.querySelector('#redirect'))
         return
       }
-      document.querySelector('#notice').innerText = '404 not found.'
-      document.body.removeChild(document.querySelector('#redirect'))
-    })
+      window.addEventListener('load', ()=>{
+        window.location.href = targetLink
+      })
+    })()
   </script>
 </body>
 </html>
