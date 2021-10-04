@@ -31,6 +31,11 @@
       "mark": ["script"]
     },
     {
+      "name": "短链接项目地址",
+      "url": "https://github.com/dmscode/shortLink",
+      "mark": ["short"]
+    },
+    {
       "name": "笔记，卡片，小书签",
       "url": "https://meta.appinn.net/t/26446",
       "mark": ["note"]
