@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loading...</title>
+  <style>
+    html, body {
+      width: 100vw;
+      height: 100vh;
+      text-align: center;
+    }
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #notice {
+      font-size: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div id="notice"></div>
+  <!-- Default Statcounter code for https://r.ixyz.zyx/ -->
+  <script type="text/javascript">
+    var sc_project=12639313;
+    var sc_invisible=1;
+    var sc_security="57c1605a";
+  </script>
+  <script type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async></script>
+  <!-- End of Statcounter Code -->
+  <script id="redirect">
+    'use strict';
+    const mark = window.location.hash.replace(/^#/,'')
+    const ifError = ()=>{
+      document.title = 'Error'
+      document.querySelector('#notice').innerText = 'May be something error, you need refresh this page.'
+    }
+    const reqListener = function(){
+      if(this.status!==200){
+        ifError()
+        return
+      }
+      const config = JSON.parse(this.responseText)
+
+      const urls = {}
+      for(const u of config.urls){
+        for(const m of u.mark){
+          if(urls[m]){
+            continue
+          }
+          urls[m] = u.url
+        }
+      }
+      const targetLink = urls[mark]
+      if(!targetLink){
+        document.title = config['404Title']
+        document.querySelector('#notice').innerText = config['404Desc']
+        document.body.removeChild(document.querySelector('#redirect'))
+        return
+      }
+      document.title = config['defaultTitle']
+      const redirectToNewLink = ()=>{
+        window.location.href = targetLink
+      }
+      window.addEventListener('load', redirectToNewLink)
+      window.setTimeout(redirectToNewLink, 3000)
+    }
+
+    var oReq = new XMLHttpRequest();
+    oReq.addEventListener("load", reqListener);
+    oReq.addEventListener("error", ifError);
+    oReq.open("GET", "./config.json1");
+    oReq.send();
+  </script>
+</body>
+</html>

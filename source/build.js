@@ -1,7 +1,7 @@
 const fs = require('fs')
 const filedir = process.cwd()+'/'
 
-const config = JSON.parse(fs.readFileSync(filedir+'source/config.json'))
+const config = JSON.parse(fs.readFileSync(filedir+'/config.json'))
 const urls = {}
 
 let markCounter = 0
