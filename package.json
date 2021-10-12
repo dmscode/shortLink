@@ -5,6 +5,6 @@
   "author": "dmscode <i@zji.me>",
   "license": "MIT",
   "scripts": {
-    "build": "node ./source/build.js"
+    "build": "node ./source/build.js && git add * && git commit -m add && git push"
   }
 }

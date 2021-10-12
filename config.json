@@ -35,6 +35,11 @@
       "mark": ["script_expand"]
     },
     {
+      "name": "小众论坛 - TOC 发布页面",
+      "url": "https://meta.appinn.net/t/25812",
+      "mark": ["meta_toc"]
+    },
+    {
       "name": "短链接项目地址",
       "url": "https://github.com/dmscode/shortLink",
       "mark": ["short"]
