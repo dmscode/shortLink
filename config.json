@@ -30,6 +30,11 @@
       "mark": ["script"]
     },
     {
+      "name": "自动展开全文",
+      "url": "https://script.izyx.xyz/expand-the-article/",
+      "mark": ["script_expand"]
+    },
+    {
       "name": "短链接项目地址",
       "url": "https://github.com/dmscode/shortLink",
       "mark": ["short"]
