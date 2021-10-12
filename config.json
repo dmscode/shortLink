@@ -40,6 +40,11 @@
       "mark": ["meta_toc"]
     },
     {
+      "name": "小众论坛 - 网页笔记卡片",
+      "url": "https://meta.appinn.net/t/26446",
+      "mark": ["meta_note_card"]
+    },
+    {
       "name": "短链接项目地址",
       "url": "https://github.com/dmscode/shortLink",
       "mark": ["short"]
