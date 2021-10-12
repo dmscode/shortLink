@@ -7,6 +7,8 @@
 |  |  | https://r.izyx.xyz/#github |
 | Gist | https://gist.github.com/ | https://r.izyx.xyz/#gist |
 | 稻米鼠的小脚本们 | https://script.izyx.xyz/ | https://r.izyx.xyz/#script |
+| TOC 菜单 | https://script.izyx.xyz/page-toc/ | https://r.izyx.xyz/#page_toc |
+| 网页笔记卡片 | https://script.izyx.xyz/note-card/ | https://r.izyx.xyz/#note_card |
 | 自动展开全文 | https://script.izyx.xyz/expand-the-article/ | https://r.izyx.xyz/#script_expand |
 | 小众论坛 - TOC 发布页面 | https://meta.appinn.net/t/25812 | https://r.izyx.xyz/#meta_toc |
 | 小众论坛 - 网页笔记卡片 | https://meta.appinn.net/t/26446 | https://r.izyx.xyz/#meta_note_card |

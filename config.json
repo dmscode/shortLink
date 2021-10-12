@@ -30,6 +30,16 @@
       "mark": ["script"]
     },
     {
+      "name": "TOC 菜单",
+      "url": "https://script.izyx.xyz/page-toc/",
+      "mark": ["page_toc"]
+    },
+    {
+      "name": "网页笔记卡片",
+      "url": "https://script.izyx.xyz/note-card/",
+      "mark": ["note_card"]
+    },
+    {
       "name": "自动展开全文",
       "url": "https://script.izyx.xyz/expand-the-article/",
       "mark": ["script_expand"]
