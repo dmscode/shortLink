@@ -40,6 +40,11 @@
       "mark": ["note_card"]
     },
     {
+      "name": "链接地址洗白白",
+      "url": "https://script.izyx.xyz/link-cleaner/",
+      "mark": ["link_cleaner"]
+    },
+    {
       "name": "自动展开全文",
       "url": "https://script.izyx.xyz/expand-the-article/",
       "mark": ["script_expand"]
