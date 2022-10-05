@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Loading...</title>
+  <title>Redirecting...</title>
   <style>
     html, body {
       width: 100vw;
@@ -35,47 +35,20 @@
   <!-- End of Statcounter Code -->
   <script id="redirect">
     'use strict';
-    const mark = window.location.hash.replace(/^#/,'')
-    const ifError = ()=>{
-      document.title = 'Error'
-      document.querySelector('#notice').innerText = 'May be something error, you need refresh this page.'
-    }
-    const reqListener = function(){
-      if(this.status!==200){
-        ifError()
-        return
-      }
-      const config = JSON.parse(this.responseText)
-
-      const urls = {}
-      for(const u of config.urls){
-        for(const m of u.mark){
-          if(urls[m]){
-            continue
-          }
-          urls[m] = u.url
-        }
-      }
+    (()=>{
+      const urls = {"app":"https://www.appinn.com/","appinn":"https://www.appinn.com/","meta":"https://meta.appinn.net/","gh":"https://github.com/","github":"https://github.com/","gist":"https://gist.github.com/","script":"https://script.izyx.xyz/","page_toc":"https://script.izyx.xyz/page-toc/","note_card":"https://script.izyx.xyz/note-card/","link_cleaner":"https://script.izyx.xyz/link-cleaner/","script_expand":"https://script.izyx.xyz/expand-the-article/","meta_toc":"https://meta.appinn.net/t/25812","meta_note_card":"https://meta.appinn.net/t/26446","short":"https://github.com/dmscode/shortLink","note":"https://meta.appinn.net/t/26446"}
+      const mark = window.location.hash.replace(/^#/,'')
       const targetLink = urls[mark]
       if(!targetLink){
-        document.title = config['404Title']
-        document.querySelector('#notice').innerText = config['404Desc']
+        document.title = '404 not found.'
+        document.querySelector('#notice').innerText = '404 not found.'
         document.body.removeChild(document.querySelector('#redirect'))
         return
       }
-      document.title = config['defaultTitle']
-      const redirectToNewLink = ()=>{
+      window.addEventListener('load', ()=>{
         window.location.href = targetLink
-      }
-      window.addEventListener('load', redirectToNewLink)
-      window.setTimeout(redirectToNewLink, 3000)
-    }
-
-    var oReq = new XMLHttpRequest();
-    oReq.addEventListener("load", reqListener);
-    oReq.addEventListener("error", ifError);
-    oReq.open("GET", "./config.json");
-    oReq.send();
+      })
+    })()
   </script>
 </body>
 </html>
