@@ -1,0 +1,89 @@
+2022-10-05 13:29:47: -- 分析开始 On File Change, After Delay
+2022-10-05 13:29:47: /.git/COMMIT_EDITMSG: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/FETCH_HEAD: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/index: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/logs/HEAD: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/logs/refs/heads/master: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/logs/refs/remotes/origin/master: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/32/ed243ac4865b931ce43cc6c4518ed824c14cfb: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/47/82e9923847ba65613255fc59b5be772a6dffcb: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/48/e3b3162e11c6f202257fbf4420d6356e1601b7: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/52/463913932917e1b4ce2353a342194d4e8ffe04: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/62/8ced55515790269adaf522f3ed92303b2aa85b: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/6b/4b7e7e35e6f917a0ebac2c6776eb41050440bd: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/95/112097b7b7d010c16554389b4370a88a590a66: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/c2/506835c60294ab8cccdb0d3f58caa6a4c34f98: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/dc/c8efc8a61b33557a1ef90dca609e01a31e5599: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/e2/38363d54b7686e5cff3f5138669bcb5ca057ea: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/e8/a9e7927b76ed1bb3cb760e39226d11da57373f: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/f8/40eb7ee6bbc9a47ae22f7f3ceeb8b493bcc6b0: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/objects/f8/5367d05b1b294468e0cc45537893753a85ca54: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/refs/heads/master: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /.git/refs/remotes/origin/master: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /index.html: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: /urlsList.md: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:29:47: 变更：61， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 327
+2022-10-05 13:29:47: Left to Right: Copy File: 23 Delete File: 38 
+2022-10-05 13:29:47: == 同步开始由 On File Change, After Delay
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/04/66e44eaad37d736a6f86f07ea5ac2ad710dd11
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/0a/17987bb1bab2e2c1ca86d3822a8374078a49e7
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/13/f99b0677a50748311296154b042d17686abbbd
+2022-10-05 13:29:47: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/13
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/23/ac0ce466dfcecbe4c7afbec8cf2506f0061cd9
+2022-10-05 13:29:47: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/23
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/27/632038c9689f61dcb483db9efaa2a2dab64696
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/35/aa83e19a4b035e731d7f8761271d99e6db1978
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/3b/7d087faf8ec6a6abf8b71dbb1e7a8f2ee97d56
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/3c/34fdba0f783e7d4210d787fa53cc3ccf3b109c
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/47/4f627bcb696c6f18d66f83b247682806b74cd5
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/4a/0d5ee65aafa13f91c2aab9d63664f14408b733
+2022-10-05 13:29:47: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/4a
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/5f/98b1acee91db00c15740c25835db3b87d832d5
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/63/5d46e1ea120b512a1810c2e513fe5e954754e1
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/64/05b961b4c1685f146c9ebe700ec8b412c90ce9
+2022-10-05 13:29:47: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/64
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/69/aa91e1ddcc31f0511c5d565a5904769923ebf9
+2022-10-05 13:29:47: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/69
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/73/92a0ff2b36b40bee5a54376457228ec8b21369
+2022-10-05 13:29:47: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/73
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/8f/d53ae8f1cf8c3d072fa7b55f0dec7d0975d6fc
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/94/283d61ebbebd503a09e627d93d753836857444
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/96/ae9592d4cbe0b0d184ba982591c7c12b03ff73
+2022-10-05 13:29:47: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/96
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/d3/f54b948dcaac4b69544a06184daccd9ef9cfbc
+2022-10-05 13:29:47: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/d3
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/dc/ff45127abd2c252959c1d4c70d5151f8309cdb
+2022-10-05 13:29:47: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/df/b338b059ccbb9225c896f92362a717c8c1d94a
+2022-10-05 13:29:48: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/df
+2022-10-05 13:29:48: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+2022-10-05 13:29:48: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/e8/a10f19da10d7662c500383c602909de0c0cdb1
+2022-10-05 13:29:48: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/f2/2984b3db4580d5e7ab35e4a19570fcb510d818
+2022-10-05 13:29:48: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/f2/f9f63bc88c3524bcd470df01a3c4654e26880e
+2022-10-05 13:29:48: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/f4/315be535a1c37b5aac165afd0dc998377f1662
+2022-10-05 13:29:48: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/f4
+2022-10-05 13:29:48: 删除文件 D:/WorkSpace/Github/shortLink/.git/objects/f5/3af22d5226ace9055ba38aa974f898c8883bb8
+2022-10-05 13:29:48: 删除文件夹 D:/WorkSpace/Github/shortLink/.git/objects/f5
+2022-10-05 13:29:48: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/COMMIT_EDITMSG' -> 'D:/WorkSpace/Github/shortLink/.git/COMMIT_EDITMSG' (79)
+2022-10-05 13:29:48: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/FETCH_HEAD' -> 'D:/WorkSpace/Github/shortLink/.git/FETCH_HEAD' (90)
+2022-10-05 13:29:48: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/index' -> 'D:/WorkSpace/Github/shortLink/.git/index' (1,174)
+2022-10-05 13:29:48: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/logs/HEAD' -> 'D:/WorkSpace/Github/shortLink/.git/logs/HEAD' (3,341)
+2022-10-05 13:29:48: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/logs/refs/heads/master' -> 'D:/WorkSpace/Github/shortLink/.git/logs/refs/heads/master' (3,341)
+2022-10-05 13:29:48: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/logs/refs/remotes/origin/master' -> 'D:/WorkSpace/Github/shortLink/.git/logs/refs/remotes/origin/master' (2,691)
+2022-10-05 13:29:48: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/32/ed243ac4865b931ce43cc6c4518ed824c14cfb' -> 'D:/WorkSpace/Github/shortLink/.git/objects/32/ed243ac4865b931ce43cc6c4518ed824c14cfb' (1,777)
+2022-10-05 13:29:48: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/47/82e9923847ba65613255fc59b5be772a6dffcb' -> 'D:/WorkSpace/Github/shortLink/.git/objects/47/82e9923847ba65613255fc59b5be772a6dffcb' (180)
+2022-10-05 13:29:48: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/48/e3b3162e11c6f202257fbf4420d6356e1601b7' -> 'D:/WorkSpace/Github/shortLink/.git/objects/48/e3b3162e11c6f202257fbf4420d6356e1601b7' (11,072)
+2022-10-05 13:29:48: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/52/463913932917e1b4ce2353a342194d4e8ffe04' -> 'D:/WorkSpace/Github/shortLink/.git/objects/52/463913932917e1b4ce2353a342194d4e8ffe04' (647)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/62/8ced55515790269adaf522f3ed92303b2aa85b' -> 'D:/WorkSpace/Github/shortLink/.git/objects/62/8ced55515790269adaf522f3ed92303b2aa85b' (916)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/6b/4b7e7e35e6f917a0ebac2c6776eb41050440bd' -> 'D:/WorkSpace/Github/shortLink/.git/objects/6b/4b7e7e35e6f917a0ebac2c6776eb41050440bd' (452)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/95/112097b7b7d010c16554389b4370a88a590a66' -> 'D:/WorkSpace/Github/shortLink/.git/objects/95/112097b7b7d010c16554389b4370a88a590a66' (90)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/c2/506835c60294ab8cccdb0d3f58caa6a4c34f98' -> 'D:/WorkSpace/Github/shortLink/.git/objects/c2/506835c60294ab8cccdb0d3f58caa6a4c34f98' (13,712)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/dc/c8efc8a61b33557a1ef90dca609e01a31e5599' -> 'D:/WorkSpace/Github/shortLink/.git/objects/dc/c8efc8a61b33557a1ef90dca609e01a31e5599' (26)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/e2/38363d54b7686e5cff3f5138669bcb5ca057ea' -> 'D:/WorkSpace/Github/shortLink/.git/objects/e2/38363d54b7686e5cff3f5138669bcb5ca057ea' (173)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/e8/a9e7927b76ed1bb3cb760e39226d11da57373f' -> 'D:/WorkSpace/Github/shortLink/.git/objects/e8/a9e7927b76ed1bb3cb760e39226d11da57373f' (571)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/f8/40eb7ee6bbc9a47ae22f7f3ceeb8b493bcc6b0' -> 'D:/WorkSpace/Github/shortLink/.git/objects/f8/40eb7ee6bbc9a47ae22f7f3ceeb8b493bcc6b0' (1,032)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/f8/5367d05b1b294468e0cc45537893753a85ca54' -> 'D:/WorkSpace/Github/shortLink/.git/objects/f8/5367d05b1b294468e0cc45537893753a85ca54' (9,729)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/refs/heads/master' -> 'D:/WorkSpace/Github/shortLink/.git/refs/heads/master' (41)
+2022-10-05 13:29:49: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/refs/remotes/origin/master' -> 'D:/WorkSpace/Github/shortLink/.git/refs/remotes/origin/master' (41)
+2022-10-05 13:29:50: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/index.html' -> 'D:/WorkSpace/Github/shortLink/index.html' (2,057)
+2022-10-05 13:29:50: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/urlsList.md' -> 'D:/WorkSpace/Github/shortLink/urlsList.md' (1,430)
+2022-10-05 13:29:50: == 同步完成. 历时: 00:00:04, 速度: 1.09 MB/s, 完成: 61, 错误: 0

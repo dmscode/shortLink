@@ -1,0 +1,73 @@
+2022-10-05 13:22:23: -- 分析开始 On File Change First Full Analyze Upon Folder Connect
+2022-10-05 13:22:24: 左侧: State file does not exist: //NOTEBOOK/WorkSpace/Github/shortLink/_gsdata_/_file_state_v4._gs
+2022-10-05 13:22:25: 右侧: State file does not exist: D:/WorkSpace/Github/shortLink/_gsdata_/_file_state_v4._gs
+2022-10-05 13:22:25: 变更：66， 冲突：0， 复制时间：0， 复制状态：212， 错误： 0, All: 279
+2022-10-05 13:22:25: Left to Right: Copy File: 66 
+2022-10-05 13:22:25: == 同步开始由 On File Change First Full Analyze Upon Folder Connect
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/0d
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/10
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/25
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/41
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/4b
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/52
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/5c
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/66
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/71
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/86
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/8f
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/e1
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/e6
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/e8
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/f2
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/f3
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/f7
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/info
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/objects/pack
+2022-10-05 13:22:25: 创建文件夹 D:/WorkSpace/Github/shortLink/.git/refs/tags
+2022-10-05 13:22:25: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/COMMIT_EDITMSG' -> 'D:/WorkSpace/Github/shortLink/.git/COMMIT_EDITMSG' (79)
+2022-10-05 13:22:25: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/config' -> 'D:/WorkSpace/Github/shortLink/.git/config' (334)
+2022-10-05 13:22:25: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/FETCH_HEAD' -> 'D:/WorkSpace/Github/shortLink/.git/FETCH_HEAD' (90)
+2022-10-05 13:22:26: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/index' -> 'D:/WorkSpace/Github/shortLink/.git/index' (1,174)
+2022-10-05 13:22:26: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/logs/HEAD' -> 'D:/WorkSpace/Github/shortLink/.git/logs/HEAD' (3,341)
+2022-10-05 13:22:26: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/logs/refs/heads/master' -> 'D:/WorkSpace/Github/shortLink/.git/logs/refs/heads/master' (3,341)
+2022-10-05 13:22:26: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/logs/refs/remotes/origin/master' -> 'D:/WorkSpace/Github/shortLink/.git/logs/refs/remotes/origin/master' (2,691)
+2022-10-05 13:22:26: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/0b/9533755a5a86c6b340b68c056a54c9f658376c' -> 'D:/WorkSpace/Github/shortLink/.git/objects/0b/9533755a5a86c6b340b68c056a54c9f658376c' (803)
+2022-10-05 13:22:26: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/0d/2cd3584b209735eb0a36ea6cb1f450638b0a08' -> 'D:/WorkSpace/Github/shortLink/.git/objects/0d/2cd3584b209735eb0a36ea6cb1f450638b0a08' (143)
+2022-10-05 13:22:26: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/10/26c69442d05ee85490203a9469799f907b946e' -> 'D:/WorkSpace/Github/shortLink/.git/objects/10/26c69442d05ee85490203a9469799f907b946e' (248)
+2022-10-05 13:22:26: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/25/1fd1beaa40fd4f6c62bde54fa17cba8575a46d' -> 'D:/WorkSpace/Github/shortLink/.git/objects/25/1fd1beaa40fd4f6c62bde54fa17cba8575a46d' (159)
+2022-10-05 13:22:26: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/32/ed243ac4865b931ce43cc6c4518ed824c14cfb' -> 'D:/WorkSpace/Github/shortLink/.git/objects/32/ed243ac4865b931ce43cc6c4518ed824c14cfb' (1,777)
+2022-10-05 13:22:26: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/36/f348ec11d163fba157e419e2c9dbcacdee5846' -> 'D:/WorkSpace/Github/shortLink/.git/objects/36/f348ec11d163fba157e419e2c9dbcacdee5846' (568)
+2022-10-05 13:22:26: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/41/68c1aa7b58ce654ce4d5920d66b77e641a48fe' -> 'D:/WorkSpace/Github/shortLink/.git/objects/41/68c1aa7b58ce654ce4d5920d66b77e641a48fe' (279)
+2022-10-05 13:22:27: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/43/b7d926e3b1ab4af5d26d3de3e9dea7789ff9ae' -> 'D:/WorkSpace/Github/shortLink/.git/objects/43/b7d926e3b1ab4af5d26d3de3e9dea7789ff9ae' (141)
+2022-10-05 13:22:27: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/47/82e9923847ba65613255fc59b5be772a6dffcb' -> 'D:/WorkSpace/Github/shortLink/.git/objects/47/82e9923847ba65613255fc59b5be772a6dffcb' (180)
+2022-10-05 13:22:27: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/48/e3b3162e11c6f202257fbf4420d6356e1601b7' -> 'D:/WorkSpace/Github/shortLink/.git/objects/48/e3b3162e11c6f202257fbf4420d6356e1601b7' (11,072)
+2022-10-05 13:22:27: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/4b/3cf107015d64317ebe7a1b862ec7d733e3ad19' -> 'D:/WorkSpace/Github/shortLink/.git/objects/4b/3cf107015d64317ebe7a1b862ec7d733e3ad19' (804)
+2022-10-05 13:22:27: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/52/463913932917e1b4ce2353a342194d4e8ffe04' -> 'D:/WorkSpace/Github/shortLink/.git/objects/52/463913932917e1b4ce2353a342194d4e8ffe04' (647)
+2022-10-05 13:22:27: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/5c/3b47070ca3ab32b7b964829082ad730c1e0b02' -> 'D:/WorkSpace/Github/shortLink/.git/objects/5c/3b47070ca3ab32b7b964829082ad730c1e0b02' (886)
+2022-10-05 13:22:27: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/62/8ced55515790269adaf522f3ed92303b2aa85b' -> 'D:/WorkSpace/Github/shortLink/.git/objects/62/8ced55515790269adaf522f3ed92303b2aa85b' (916)
+2022-10-05 13:22:27: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/66/cd07505cd4017170bd141898ae371d8682e731' -> 'D:/WorkSpace/Github/shortLink/.git/objects/66/cd07505cd4017170bd141898ae371d8682e731' (143)
+2022-10-05 13:22:27: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/6b/4b7e7e35e6f917a0ebac2c6776eb41050440bd' -> 'D:/WorkSpace/Github/shortLink/.git/objects/6b/4b7e7e35e6f917a0ebac2c6776eb41050440bd' (452)
+2022-10-05 13:22:27: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/71/7ce0ea17d2b5e6de9b8aff5b2a9e5e30b7e00c' -> 'D:/WorkSpace/Github/shortLink/.git/objects/71/7ce0ea17d2b5e6de9b8aff5b2a9e5e30b7e00c' (161)
+2022-10-05 13:22:28: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/86/b2e5c38375e1d6befa46aeee97269860b71dc3' -> 'D:/WorkSpace/Github/shortLink/.git/objects/86/b2e5c38375e1d6befa46aeee97269860b71dc3' (168)
+2022-10-05 13:22:28: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/8f/553c0f1b4ccc471e61f29f718192e8a1bd432d' -> 'D:/WorkSpace/Github/shortLink/.git/objects/8f/553c0f1b4ccc471e61f29f718192e8a1bd432d' (55)
+2022-10-05 13:22:28: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/95/112097b7b7d010c16554389b4370a88a590a66' -> 'D:/WorkSpace/Github/shortLink/.git/objects/95/112097b7b7d010c16554389b4370a88a590a66' (90)
+2022-10-05 13:22:28: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/c2/506835c60294ab8cccdb0d3f58caa6a4c34f98' -> 'D:/WorkSpace/Github/shortLink/.git/objects/c2/506835c60294ab8cccdb0d3f58caa6a4c34f98' (13,712)
+2022-10-05 13:22:28: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/cb/e907d75311caa5f418f1fb5ff7d5a2f4c6cb61' -> 'D:/WorkSpace/Github/shortLink/.git/objects/cb/e907d75311caa5f418f1fb5ff7d5a2f4c6cb61' (134)
+2022-10-05 13:22:28: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/dc/c8efc8a61b33557a1ef90dca609e01a31e5599' -> 'D:/WorkSpace/Github/shortLink/.git/objects/dc/c8efc8a61b33557a1ef90dca609e01a31e5599' (26)
+2022-10-05 13:22:28: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/e1/9c31ea36b724257973195dd1ecc90183d670bf' -> 'D:/WorkSpace/Github/shortLink/.git/objects/e1/9c31ea36b724257973195dd1ecc90183d670bf' (84)
+2022-10-05 13:22:28: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/e2/38363d54b7686e5cff3f5138669bcb5ca057ea' -> 'D:/WorkSpace/Github/shortLink/.git/objects/e2/38363d54b7686e5cff3f5138669bcb5ca057ea' (173)
+2022-10-05 13:22:28: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/e5/95460ec8292b00ed8f3d159a8776d1364d5b29' -> 'D:/WorkSpace/Github/shortLink/.git/objects/e5/95460ec8292b00ed8f3d159a8776d1364d5b29' (247)
+2022-10-05 13:22:29: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/e6/7419f711f3047d171a7f5121ab43af67c2871b' -> 'D:/WorkSpace/Github/shortLink/.git/objects/e6/7419f711f3047d171a7f5121ab43af67c2871b' (206)
+2022-10-05 13:22:29: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/e8/a9e7927b76ed1bb3cb760e39226d11da57373f' -> 'D:/WorkSpace/Github/shortLink/.git/objects/e8/a9e7927b76ed1bb3cb760e39226d11da57373f' (571)
+2022-10-05 13:22:29: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/ea/5ca55c734d5b02a2548a72eb72e77c6ce2ff3c' -> 'D:/WorkSpace/Github/shortLink/.git/objects/ea/5ca55c734d5b02a2548a72eb72e77c6ce2ff3c' (148)
+2022-10-05 13:22:29: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/f2/60365d4c1461216c37c63c0b7b1bd535cf34c6' -> 'D:/WorkSpace/Github/shortLink/.git/objects/f2/60365d4c1461216c37c63c0b7b1bd535cf34c6' (247)
+2022-10-05 13:22:29: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/f3/3a8c2ff8ed4cef39edd0e2d3fc090039645708' -> 'D:/WorkSpace/Github/shortLink/.git/objects/f3/3a8c2ff8ed4cef39edd0e2d3fc090039645708' (248)
+2022-10-05 13:22:29: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/f7/985ace77316612259e3b76da0d8a36afd36586' -> 'D:/WorkSpace/Github/shortLink/.git/objects/f7/985ace77316612259e3b76da0d8a36afd36586' (134)
+2022-10-05 13:22:29: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/f8/40eb7ee6bbc9a47ae22f7f3ceeb8b493bcc6b0' -> 'D:/WorkSpace/Github/shortLink/.git/objects/f8/40eb7ee6bbc9a47ae22f7f3ceeb8b493bcc6b0' (1,032)
+2022-10-05 13:22:29: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/objects/f8/5367d05b1b294468e0cc45537893753a85ca54' -> 'D:/WorkSpace/Github/shortLink/.git/objects/f8/5367d05b1b294468e0cc45537893753a85ca54' (9,729)
+2022-10-05 13:22:29: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/ORIG_HEAD' -> 'D:/WorkSpace/Github/shortLink/.git/ORIG_HEAD' (41)
+2022-10-05 13:22:29: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/refs/heads/master' -> 'D:/WorkSpace/Github/shortLink/.git/refs/heads/master' (41)
+2022-10-05 13:22:30: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/refs/remotes/origin/master' -> 'D:/WorkSpace/Github/shortLink/.git/refs/remotes/origin/master' (41)
+2022-10-05 13:22:30: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/refs/tags/原始版本' -> 'D:/WorkSpace/Github/shortLink/.git/refs/tags/原始版本' (41)
+2022-10-05 13:22:30: 新建复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.git/refs/tags/转为自用' -> 'D:/WorkSpace/Github/shortLink/.git/refs/tags/转为自用' (41)
+2022-10-05 13:22:30: == 同步完成. 历时: 00:00:07, 速度: 2.94 MB/s, 完成: 278, 错误: 0
