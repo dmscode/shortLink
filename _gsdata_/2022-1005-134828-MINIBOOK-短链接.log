@@ -1,0 +1,6 @@
+2022-10-05 13:48:29: -- 分析开始 On File Change, After Delay
+2022-10-05 13:48:30: 变更：1， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 361
+2022-10-05 13:48:30: Left to Right: Copy File: 1 
+2022-10-05 13:48:30: == 同步开始由 On File Change, After Delay
+2022-10-05 13:48:30: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/.gitignore' -> 'D:/WorkSpace/Github/shortLink/.gitignore' (10)
+2022-10-05 13:48:31: == 同步完成. 历时: 00:00:03, 速度: 0.00/s, 完成: 1, 错误: 0
