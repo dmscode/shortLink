@@ -68,6 +68,11 @@
       "name": "笔记，卡片，小书签",
       "url": "https://meta.appinn.net/t/26446",
       "mark": ["note"]
+    },
+    {
+      "name": "我的 B 站直播间",
+      "url": "https://live.bilibili.com/21024",
+      "mark": ["live", "21024"]
     }
   ]
 }
