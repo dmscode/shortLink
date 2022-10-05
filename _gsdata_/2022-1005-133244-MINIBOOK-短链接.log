@@ -1,0 +1,11 @@
+2022-10-05 13:32:45: -- 分析开始 On File Change, After Delay
+2022-10-05 13:32:45: /build.bat: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:32:45: /index.html: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:32:45: /urlsList.md: R:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2022-10-05 13:32:45: 变更：3， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 360
+2022-10-05 13:32:45: Left to Right: Copy File: 3 
+2022-10-05 13:32:45: == 同步开始由 On File Change, After Delay
+2022-10-05 13:32:45: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/build.bat' -> 'D:/WorkSpace/Github/shortLink/build.bat' (49)
+2022-10-05 13:32:45: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/index.html' -> 'D:/WorkSpace/Github/shortLink/index.html' (2,057)
+2022-10-05 13:32:45: 覆盖复制 '//NOTEBOOK/WorkSpace/Github/shortLink/urlsList.md' -> 'D:/WorkSpace/Github/shortLink/urlsList.md' (1,430)
+2022-10-05 13:32:46: == 同步完成. 历时: 00:00:02, 速度: 0.00/s, 完成: 3, 错误: 0
