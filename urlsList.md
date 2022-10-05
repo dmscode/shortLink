@@ -13,4 +13,5 @@
 | 小众论坛 - 网页笔记卡片 | [#meta_note_card](https://r.izyx.xyz/#meta_note_card) | https://meta.appinn.net/t/26446 |
 | 短链接项目地址 | [#short](https://r.izyx.xyz/#short) | https://github.com/dmscode/shortLink |
 | 笔记，卡片，小书签 | [#note](https://r.izyx.xyz/#note) | https://meta.appinn.net/t/26446 |
+| Greasy Fork | [#gf](https://r.izyx.xyz/#gf) | https://greasyfork.org/zh-CN |
 | 我的 B 站直播间 | [#live](https://r.izyx.xyz/#live)<br>[#21024](https://r.izyx.xyz/#21024) | https://live.bilibili.com/21024 |
