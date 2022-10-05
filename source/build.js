@@ -6,7 +6,7 @@ const urls = {}
 
 let markCounter = 0
 const urlsLength = config.urls.length
-let urlsList = `| Name | Target link | Mark link |\n|------|------------|------------|\n`
+let urlsList = `| Name | Mark | Target link |\n|------|-------|------------|\n`
 for(const u of config.urls){
   for(const m of u.mark){
     if(urls[m]){
@@ -16,7 +16,7 @@ for(const u of config.urls){
     urls[m] = u.url
     markCounter++
   }
-  urlsList += '| '+u.name+' | '+u.url+' | '+u.mark.map(m=>config.baseUrl+'#'+m).join(' |\n|  |  | ')+' |\n'
+  urlsList += '| '+u.name+' | '+u.mark.map(m=>`[#${m}](${config.baseUrl+'#'+m})`).join('<br>')+' | '+u.url+' |\n'
 }
 config.urls = JSON.stringify(urls)
 let webpage = fs.readFileSync(filedir+'source/index.html').toString()
